@@ -1,0 +1,17 @@
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\Projects\CSharp\Sortirovka\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
